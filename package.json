@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kaitakami/testing-practice-js#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.18.10",
     "eslint": "^8.21.0",
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-import": "^2.26.0",
